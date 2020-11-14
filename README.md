@@ -2,6 +2,7 @@
 Before executing above program run these commands on command prompt:
 
 pip install numpy
+
 pip install scipy
 
 
